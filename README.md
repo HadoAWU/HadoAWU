@@ -37,7 +37,7 @@ Here are some things I’m working on:
 - 📖 **My Comic Project**  
   → Creating my own comic with original story and art  
 
-*(Add links when you upload projects)*
+*()*
 
 ---
 
